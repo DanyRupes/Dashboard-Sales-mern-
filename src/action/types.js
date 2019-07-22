@@ -1,0 +1,35 @@
+
+// App
+export const LOADING_APP = 'LOADING_APP'
+export const DISPLAY_APP = 'DISPLAY_APP'
+
+// auth
+export const CHECK_AUTH = 'CHECK_AUTH'
+export const AUTH_FALSE = 'AUTH_FALSE'
+
+
+// products
+export const LOAD_PRODUCTS = 'LOAD_PRODUCTS'
+export const DISPLAY_PRODUCTS = 'DISPLAY_PRODUCTS'
+
+// sales 
+export const DISPLAY_SALES = 'DISPLAY_SALES'
+export const LOADING_SALES = 'LOADING_SALES'
+
+
+// location
+export const DISPLAY_LOCATION = 'DISPLAY_LOCATION'
+export const LOADING_LOCATION = 'LOADING_LOCATION'
+export const SELECTED_LOCATION = 'SELECTED_LOCATION'
+
+
+// ordes
+export const DISPLAY_ORDERS = 'DISPLAY_ORDERS'
+export const LOADING_ORDERS = 'LOADING_ORDERS'
+
+// customers
+export const LOADING_CUSTOMER = 'LOADING_CUSTOMER'
+export const DISPLAY_CUSTOMER = 'DISPLAY_CUSTOMER'
+export const DISPLAY_SALE_CUSTOMER = 'DISPLAY_SALE_CUSTOMER'
+
+
